@@ -1,0 +1,19 @@
+COOKIE CLICKER
+by lthon09
+
+This is my very first game, so it may look ugly
+
+The game is just about clicking a cookie, it's made in Python
+Its upgrade system is simple, if your upgrade level is 0 you would get 1 Cookie per Click, leveling up the next level
+would get you 2 Cookies per Click. To upgrade, you need a certain amount of Cookies
+
+Just if you want to cheat, you can edit the data in the data.json file
+
+Thanks for playing!
+
+itch.io Page: https://lthon09.itch.io/cookie-clicker
+Source Code: https://github.com/lthon09/cookie-clicker
+
+The source code isn't licensed, so feel free to use it
+
+If you want to see more of my projects, you can visit my personal website: https://www.lthon09.tk
