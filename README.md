@@ -1,2 +1,5 @@
-# cookie-clicker
-A cookie clicker game
+# Cookie Clicker
+
+---
+
+This game is published on [itch.io](https://lthon09.itch.io/cookie-clicker), this is its source code
