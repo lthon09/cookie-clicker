@@ -16,4 +16,4 @@ Source Code: https://github.com/lthon09/cookie-clicker
 
 The source code isn't licensed, so feel free to use it
 
-If you want to see more of my projects, you can visit my personal website: https://www.lthon09.tk
+If you want to see more of my projects, you can visit my personal website: https://www.lthon09.is-a.dev
