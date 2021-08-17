@@ -8,7 +8,6 @@ def clr():
 	else:
 		print("This program doesn't support your OS!")
 		time.sleep(1.5)
-		clr()
 		exit()
 
 versions = ("2", "3.1", "3.2", "3.3", "3.4", "3.5")
